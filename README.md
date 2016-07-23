@@ -1,2 +1,5 @@
 # hello-world
-First repo creation
+
+Hello reader!
+
+I like chocolate!
